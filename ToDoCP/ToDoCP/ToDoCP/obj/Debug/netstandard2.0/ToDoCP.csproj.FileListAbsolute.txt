@@ -1,0 +1,14 @@
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\bin\Debug\netstandard2.0\ToDoCP.deps.json
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\bin\Debug\netstandard2.0\ToDoCP.dll
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\ToDoCP.csprojAssemblyReference.cache
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\ToDoCP.csproj.CoreCompileInputs.cache
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\ToDoCP.AssemblyInfoInputs.cache
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\ToDoCP.AssemblyInfo.cs
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\Views\ToDoTaskPage.xaml.g.cs
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\ToDoCP.dll
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\ToDoCP.pdb
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\bin\Debug\netstandard2.0\ToDoCP.pdb
+D:\Job\Singularis\Xamarin_exp\ToDoCP\ToDoCP\ToDoCP\obj\Debug\netstandard2.0\XamlC.stamp
